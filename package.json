@@ -1,0 +1,25 @@
+{
+  "name": "crud_in_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesg24/CRUD_in_NodeJS.git"
+  },
+  "author": "Julien Esguerra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesg24/CRUD_in_NodeJS/issues"
+  },
+  "homepage": "https://github.com/jesg24/CRUD_in_NodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
